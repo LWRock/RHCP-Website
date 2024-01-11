@@ -1,0 +1,17 @@
+table {
+	margin-top: 40px;
+	width: 300px;
+	height: 1500px;
+}
+
+thead tr td {
+	border: 2px solid;
+	font-size: 25px;
+	background-color: #FFFF99;
+}
+
+tbody tr td {
+	border: 2px solid;
+	font-size: 25px;
+	background-color: #FFFF99;
+}

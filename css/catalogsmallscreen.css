@@ -1,0 +1,32 @@
+table {
+	position: absolute;
+	top: 550px;
+	left: 35px;
+	height: 4000px;
+	width: 200px;
+}
+
+thead tr td {
+	border: 2px solid;
+	font-size: 15px;
+	background-color: #FFFF99;
+}
+
+tbody tr td {
+	border: 2px solid;
+	font-size: 15px;
+	background-color: #FFFF99;
+}
+
+tbody tr td a:hover {
+	color: red;
+}
+
+tbody tr td a {
+	color: blue;
+}
+
+tbody tr td img {
+	width: 100px;
+	height: 100px;	
+}

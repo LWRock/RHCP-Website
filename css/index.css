@@ -1,0 +1,224 @@
+
+
+.container {
+	position: absolute;
+	height: 3300px;
+	top: 780px;
+	left: 20%;
+	border: solid;
+	background-color: #FFFF99;
+}
+
+.container #DiscButton {
+	position: absolute;
+	top: 720px;
+	left: 550px;
+	width: 190px;
+	font-size: 30px;
+	text-align: center; 
+	margin: auto;
+}
+
+.container #VideosButton {
+	position: absolute;
+	top: 380px;
+	left: 550px;
+	width: 190px;
+	font-size: 15px;
+	text-align: center; 
+	margin: auto;
+}
+
+.container #STSVideo {
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	height: 300px;
+	width: 450px;
+}
+
+.container #CaliVideo {
+	position: absolute;
+	left: 550px;
+	top: 50px;
+	height: 300px;
+	width: 450px;
+}
+
+.container #SnowVideo {
+	position: absolute;
+	top: 420px;
+	left: 50px;
+	height: 300px;
+	width: 450px;
+}
+
+.container #TourDatesTable {
+	position: absolute;
+	left: 80px;
+	top: 880px;
+	width: 65%;
+	height: 500px;
+}
+
+.container #TourDatesTable thead tr td {
+	padding: 10px 25px 10px 10px;
+	border: 3px solid;
+	font-size: 40px;
+	background-color: white;
+}
+
+.container #TourDatesTable tbody tr td {
+	padding: 10px 25px 10px 10px;
+	border: 3px solid;
+	font-size: 35px;
+	background-color: white;
+}
+
+.container #TourButton {
+	position: absolute;
+	top: 1750px;
+	left: 80px;
+	width: 180px;
+	font-size: 30px;
+	text-align: center; 
+	margin: auto;
+}
+
+
+.container #DiscographyGuide {
+	position: absolute;
+	top: 420px;
+	left: 550px;
+	height: 300px;
+	width: 450px;
+	font-size: 25px;
+}
+
+.container #TourDatesGuide {
+	position: absolute;
+	top: 1550px;
+	left: 80px;
+	height: 300px;
+	width: 450px;
+	font-size: 25px;
+}
+
+.container #Soul2SqueezeHeader {
+	position: absolute;
+	top: 5px;
+	left: 120px;
+	font-size: 25px;
+	background-color: white;
+	border: 2px solid;
+}
+
+.container #CalifornHeader {
+	position: absolute;
+	top: 5px;
+	left: 630px;
+	font-size: 25px;
+	background-color: white;
+	border: 2px solid;
+}
+
+.container #SnowHeader {
+	position: absolute;
+	top: 375px;
+	left: 120px;
+	font-size: 25px;
+	background-color: white;
+	border: 2px solid;
+}
+
+.container #TourDatesHeader {
+	position: absolute;
+	top: 800px;
+	left: 80px;
+	font-size: 35px;
+}
+
+.container #AwardsHeader {
+	position: absolute;
+	top: 1830px;
+	left: 65px;
+	font-size: 35px;
+}
+
+
+.container #AwardsTable {
+	position: absolute;
+	left: 65px;
+	top: 1900px;
+	width: 1000px;
+	height: 550px;
+}
+
+.container #AwardsTable thead tr td {
+	padding: 10px 25px 10px 10px;
+	border: 3px solid;
+	font-size: 40px;
+	background-color: white;
+}
+
+.container #AwardsTable tbody tr td {
+	padding: 10px 25px 10px 10px;
+	border: 3px solid;
+	font-size: 35px;
+	background-color: white;
+}
+
+.container #AwardsGuide {
+	position: absolute;
+	top: 2620px;
+	left: 65px;
+	height: 300px;
+	width: 450px;
+	font-size: 25px;
+}
+
+.container #AwardsButton {
+	position: absolute;
+	top: 2850px;
+	left: 65px;
+	width: 150px;
+	font-size: 30px;
+	text-align: center; 
+	margin: auto;
+}
+
+.container #AwardsButton2 {
+	position: absolute;
+	top: 2850px;
+	left: 245px;
+	width: 150px;
+	font-size: 15px;
+	text-align: center; 
+	margin: auto;
+}
+
+.container #AboutHeader {
+	position: absolute;
+	top: 2960px;
+	left: 65px;
+	font-size: 35px;
+}
+
+.container #AboutGuide {
+	position: absolute;
+	top: 3000px;
+	left: 65px;
+	height: 300px;
+	width: 450px;
+	font-size: 25px;
+}
+
+.container #AboutButton {
+	position: absolute;
+	top: 3160px;
+	left: 65px;
+	width: 150px;
+	font-size: 30px;
+	text-align: center; 
+	margin: auto;
+}

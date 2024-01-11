@@ -1,0 +1,185 @@
+table {
+	position: absolute;
+	right: 525px;
+	top: 910px;
+	width: 400px;
+}
+
+#UpliftMofoTrackList{
+	position: absolute;
+	right: 450px;
+	top: 910px;
+	width: 500px;
+}
+
+#SlaneTrackList {
+	position: absolute;
+	right: 450px;
+	top: 910px;
+	width: 500px;
+}
+
+#UnderTheCoversTrackList {
+	position: absolute;
+	right: 450px;
+	top: 910px;
+	width: 500px;
+}
+
+#WholeContainer {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1000px;
+	background-color: white;
+	
+}
+
+#WholeContainerCalifornication {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1075px;
+	background-color: white;
+	
+}
+
+#WholeContainerByTheWay {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1100px;
+	background-color: white;
+	
+}
+
+#WholeContainerSlane {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1460px;
+	background-color: white;
+	
+}
+
+#WholeContainerGreatestHits {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1100px;
+	background-color: white;
+	
+}
+
+#WholeContainerLiveInHydePark {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1665px;
+	background-color: white;
+	
+}
+
+#WholeContainerStadiumArcadium {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1730px;
+	background-color: white;
+	
+}
+
+#WholeContainerImWithYou {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1160px;
+	background-color: white;
+	
+}
+
+#WholeContainerUplift {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1000px;
+	background-color: white;
+	
+}
+
+#WholeContainerBSSM {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1160px;
+	background-color: white;
+	
+}
+
+#WholeContainerWhatHits {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1200px;
+	background-color: white;
+	
+}
+
+#AlbumTitle {
+	position: absolute;
+	left: 450px;
+	top: 820px;
+	border: solid;
+	width: 930px;
+	background-color: #FFFF99;
+ 
+}
+
+#AlbumArt {
+	position: absolute;
+	left: 450px;
+	top: 910px;
+	width: 400px;
+
+}
+
+#AlbumArtUplift {
+	position: absolute;
+	left: 430px;
+	top: 910px;
+	width: 400px;
+
+}
+
+#AlbumArtSlane {
+	position: absolute;
+	left: 450px;
+	top: 910px;
+	width: 400px;
+}
+
+thead tr td {
+	padding: 10px 25px 10px 10px;
+	border: solid;
+	font-size: 25px;
+	background-color: #FFFF99;
+}
+
+tbody tr td {
+	padding: 10px 25px 10px 10px;
+	border: solid;
+	font-size: 20px;
+	background-color: #FFFF99;
+}
+

@@ -1,0 +1,15 @@
+.container {
+	margin-top: 40px;
+	background-color: #FFFF99;
+	border: 2px solid black;
+	width: 65%;
+	height: 700px;
+}
+
+.container h1 {
+	font-size: 50px;
+}
+
+.container p {
+	font-size: 30px;
+}

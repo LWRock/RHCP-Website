@@ -1,0 +1,190 @@
+table {
+	position: absolute;
+	left: 20px;
+	top: 1150px;
+	width: 300px;
+}
+
+#UpliftMofoTrackList{
+	position: absolute;
+	left: 20px;
+	top: 1150px;
+	width: 300px;
+}
+
+#SlaneTrackList {
+	position: absolute;
+	left: 20px;
+	top: 1150px;
+	width: 300px;
+}
+
+#UnderTheCoversTrackList {
+	position: absolute;
+	left: 20px;
+	top: 1150px;
+	width: 300px;
+}
+
+#WholeContainer {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1600px;
+	background-color: white;
+	
+}
+
+#WholeContainerCalifornication {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1500px;
+	background-color: white;
+	
+}
+
+#WholeContainerByTheWay {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1600px;
+	background-color: white;
+	
+}
+
+#WholeContainerSlane {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 2000px;
+	background-color: white;
+	
+}
+
+#WholeContainerGreatestHits {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1600px;
+	background-color: white;
+	
+}
+
+#WholeContainerLiveInHydePark {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 2200px;
+	background-color: white;
+	
+}
+
+#WholeContainerStadiumArcadium {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 2200px;
+	background-color: white;
+	
+}
+
+#WholeContainerImWithYou {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1600px;
+	background-color: white;
+	
+}
+
+#WholeContainerUplift {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1500px;
+	background-color: white;
+	
+}
+
+#WholeContainerBSSM {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1700px;
+	background-color: white;
+	
+}
+
+#WholeContainerWhatHits {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	height: 1800px;
+	background-color: white;
+	
+}
+
+#AlbumTitle {
+	position: absolute;
+	left: 20px;
+	top: 600px;
+	border: solid;
+	width: 300px;
+	background-color: #FFFF99;
+ 
+}
+
+#AlbumArt img {
+	position: absolute;
+	left: 20px;
+	top: 810px;
+	width: 320px;
+	height: 300px;
+
+}
+
+#AlbumArtUplift img {
+	position: absolute;
+	left: 20px;
+	top: 810px;
+	width: 320px;
+	height: 300px;
+
+
+}
+
+#AlbumArtSlane img {
+	position: absolute;
+	left: 20px;
+	top: 810px;
+	width: 320px;
+	height: 300px;
+
+}
+
+thead tr td {
+	padding: 10px 25px 10px 10px;
+	border: solid;
+	font-size: 25px;
+	background-color: #FFFF99;
+}
+
+tbody tr td {
+	padding: 10px 25px 10px 10px;
+	border: solid;
+	font-size: 20px;
+	background-color: #FFFF99;
+}
+

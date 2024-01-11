@@ -1,0 +1,28 @@
+table {
+	position: absolute;
+	top: 650px;
+	left: 15px;
+	width: 250px;
+	height: 1500px;
+}
+
+thead tr td {
+	border: 2px solid;
+	font-size: 20px;
+	background-color: #FFFF99;
+}
+
+tbody tr td {
+	border: 2px solid;
+	font-size: 17px;
+	background-color: #FFFF99;
+}
+
+#AwardsHead {
+ position: absolute;
+ top: 550px;
+ left: 0px;
+ font-size: 30px;
+ background-color: #FFFF99;
+ border: 2px solid; 
+}

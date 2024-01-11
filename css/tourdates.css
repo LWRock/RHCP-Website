@@ -1,0 +1,21 @@
+table {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	width: 65%;
+	height: 1500px;
+}
+
+thead tr td {
+	padding: 10px 25px 10px 10px;
+	border: 2px solid;
+	font-size: 40px;
+	background-color: #FFFF99;
+}
+
+tbody tr td {
+	padding: 10px 25px 10px 10px;
+	border: 2px solid;
+	font-size: 35px;
+	background-color: #FFFF99;
+}
